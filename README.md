@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello there
 
-<!--
-**Jo7kn/Jo7kn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**😎hi I'm a 17 year old guy**
 
-Here are some ideas to get you started:
+**👺who likes to hurt himself studying c/c++**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🤖I make custom discord bots**
+
+**🖥I tried to make a video game with poor results in unity I'll try again in 2 years maybe**
+
+
+**🏖I live in a remote place called treviso**
+
+**🌧🌧 in the rain there will always be a rainbow but I'm not gay**
+
+**🪵 I'm a narcissist, selfish, hypocritical, I only think about myself and I don't trust anyone SCUTT YOU'RE GAY**
