@@ -68,9 +68,9 @@ I like working close to the machine, understanding how things work internally, a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jo7kn&show_icons=true&theme=dark&hide_border=true&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&title_color=00FF9C&text_color=FFFFFF" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jo7kn&layout=compact&theme=dark&hide_border=true&title_color=00FF9C&text_color=FFFFFF" height="165"/>
 
 </div>
 
@@ -79,7 +79,7 @@ I like working close to the machine, understanding how things work internally, a
 ## 🔥 Streak
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
+<img src="https://streak-stats.demolab.com?user=Jo7kn&theme=dark&hide_border=true&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
 </div>
 
 ---
